@@ -1,5 +1,4 @@
 # progra123
-Soluciones a ejercicios resueltos en el canal progra123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
 Codes for problems solved in the channel progra123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
 Spanish description in "leeme.md"
 
