@@ -1,6 +1,6 @@
 # progra123
 Soluciones a ejercicios resueltos en el canal progra123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
-Codes for problmes solved in the channel progra123(https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
+Codes for problems solved in the channel progra123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
 English description line 20
 
 Para encontrar la solucion a un problema propuesto en el canal solo busca por nombre, 
