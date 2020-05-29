@@ -1,5 +1,5 @@
 # progra123
-Soluciones a ejercicios resueltos en el canal Progra 123
+Soluciones a ejercicios resueltos en el canal Progra 123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
 
 Para encontrar la solucion a un problema propuesto en el canal solo busca por nombre, 
 Por ejemplo, 
