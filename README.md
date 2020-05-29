@@ -16,3 +16,5 @@ educational codeforces round 87 1354A
 
 Where 1354A is problem code, problem letter is provided by problem code.
 I'll be updating this repository with codes for problems solved in my oldest videos.
+Special thanks to Josué Aristides Melendez Aleman for suggesting me to upload codes 
+for solved problems here to Github
