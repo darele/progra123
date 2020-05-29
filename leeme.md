@@ -15,3 +15,6 @@ educational codeforces round 87 1354A
 
 donde 1354A es el codigo, el literal del problema esta en el mismo codigo
 Estare actualizando el repositorio con los codigos de problemas de videos mas antiguos.
+
+Agradecimientos especiales a Josué Arístides Melendez Aleman por sugerirme la idea de subir
+los códigos que se analizan en el canal a Github.
