@@ -4,6 +4,7 @@ CSES.fi
 Problem: Apple Division
 section: Introductory problems
 link to the problem (https://cses.fi/problemset/task/1623/)
+link to the video where I solve it: https://youtu.be/qf-0Pghhd8U
 */
 #include <bits/stdc++.h>
 #define ll long long
