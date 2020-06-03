@@ -9,8 +9,8 @@ link to the video where I solve it:
 https://youtu.be/67J5FfEiVNc
 */
 #include <bits/stdc++.h>
-#define cin fin //comment this line to 
-#define cout fout
+#define cin fin //comment this line to test your code with stdin
+#define cout fout //comment this line to test your code with stdout
 
 using namespace std;
 
