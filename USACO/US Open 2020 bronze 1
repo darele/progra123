@@ -1,6 +1,16 @@
+/*
+By progra123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
+USACO.org
+Problem: Social Distancing I
+section: US OPEN 2020
+link to the problem 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1035
+link to the video where I solve it:
+https://youtu.be/67J5FfEiVNc
+*/
 #include <bits/stdc++.h>
-//#define fin cin
-//#define fout cout
+#define cin fin //comment this line to 
+#define cout fout
 
 using namespace std;
 
@@ -56,9 +66,11 @@ int main() {
   } else if (fin >= ini && fin >= temp) {
     d2 = min(fin, d2);
     fin = 0;
+  } else {
+    d2 = min(temp, d2);
   }
   d2 = max(d, d2);
-  while (!colaempty()) {
+  while (!cola.empty()) {
     d2 = min(cola.top() + 1, d2);
     cola.pop();
   }
