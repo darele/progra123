@@ -6,7 +6,7 @@ section: US OPEN 2020
 link to the problem 
 http://www.usaco.org/index.php?page=viewproblem2&cpid=1036
 link to the video where I solve it:
-https://youtu.be/dehGeeF9-tY
+https://youtu.be/y4xFNi2xtDk
 */
 #include <bits/stdc++.h>
 #define tam 10000000
