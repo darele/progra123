@@ -5,13 +5,13 @@ Para encontrar la solucion a un problema propuesto en el canal solo busca por no
 Por ejemplo, 
 la solucion al problema D del concurso atcoder beginner contest 120 estara como
 
-abc 120 D
+abc 120 D Decayed Bridges
 
 En el caso de problemas de Codeforces, he tomado a bien nombrarlos
 tanto por codigo como por ronda y problema, por ejemplo:
 la solucion al problema A del concurso educational codeforces 87 estara como
 
-educational codeforces round 87 1354A
+ed cf round 87 1354A Alarm Clock
 
 donde 1354A es el codigo, el literal del problema esta en el mismo codigo
 Estare actualizando el repositorio con los codigos de problemas de videos mas antiguos.
