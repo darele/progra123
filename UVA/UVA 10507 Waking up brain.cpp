@@ -3,7 +3,8 @@ By Progra123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ?view_as=s
 UVA Online Judge
 problem: Waking up Brain (10507)
 Section: Chapter 2 Data Structures & algorithms, Union find disjoint sets
-link to the problem (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=17&page=show_problem&problem=1448)
+link to the problem 
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=17&page=show_problem&problem=1448
 
 */
 #include <bits/stdc++.h>
