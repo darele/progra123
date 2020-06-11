@@ -20,7 +20,7 @@ bool comp(ll a, ll b) {
 	return a > b;
 }
 
-ll suma;
+ll sum;
 
 class uf {
 public:
@@ -38,7 +38,7 @@ public:
         if (x == y) {
             return;
         }
-        suma -= (s[x] * s[y]);
+        sum -= (s[x] * s[y]);
         if (s[x] > s[y]) {
             p[y] = x;
             s[x] += s[y];
@@ -62,12 +62,12 @@ int main() {
     }
     vl ans;
     ans.reserve(m);
-    suma = (n * (n - 1)) / 2;
-    ans.push_back(suma);
-    uf kika(n);
+    sum = (n * (n - 1)) / 2;
+    ans.push_back(sum);
+    uf s(n);
     for (int i = m - 1; i > 0; i--) {
-        kika.merge(arr[i].first, arr[i].second);
-        ans.push_back(suma);
+        s.merge(arr[i].first, arr[i].second);
+        ans.push_back(sum);
     }
     reverse(ans.begin(), ans.end());
     for (ll x : ans) {
