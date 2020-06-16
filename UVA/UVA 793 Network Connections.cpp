@@ -5,7 +5,8 @@ problem: Network Connections (793)
 Section: Chapter 2 Data Structures & algorithms, Union find disjoint sets
 link to the problem 
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=734
-
+link to the video where I solve it:
+https://youtu.be/cCJ4IyjSG24
 */
 #include <bits/stdc++.h>
 #define vi vector <int>
