@@ -5,7 +5,8 @@ problem: Waking up Brain (10507)
 Section: Chapter 2 Data Structures & algorithms, Union find disjoint sets
 link to the problem 
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=17&page=show_problem&problem=1448
-
+link to the video where I solve it
+https://youtu.be/cCJ4IyjSG24
 */
 #include <bits/stdc++.h>
 #define vi vector <int>
