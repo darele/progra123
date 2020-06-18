@@ -6,6 +6,7 @@ section: abc 120
 link to the problem 
 https://atcoder.jp/contests/abc120/tasks/abc120_d
 link to the video where I solve it:
+https://youtu.be/7x7FBEGXjK4
 */
 #include <bits/stdc++.h>
 #define ll long long
