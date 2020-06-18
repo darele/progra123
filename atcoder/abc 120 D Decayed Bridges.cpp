@@ -5,7 +5,9 @@ Problem: Decayed Bridges
 section: abc 120
 link to the problem 
 https://atcoder.jp/contests/abc120/tasks/abc120_d
-link to the video where I solve it:
+link to the video where I solve it (in English):
+https://youtu.be/qM41NbexXG4
+link to the video where I solve it (in Spanish):
 https://youtu.be/hDxMJwrc4Vs
 */
 #include <bits/stdc++.h>
