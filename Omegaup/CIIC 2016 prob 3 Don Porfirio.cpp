@@ -7,6 +7,7 @@ link to the problem
 https://omegaup.com/arena/problem/don-porfirio/#problems (link to the problem)
 https://omegaup.com/arena/CIIC-2016/ (link to the contest)
 link to the video where I solve it:
+https://youtu.be/vZIQUnIN9pQ (Video in spanish)
 */
 #include <bits/stdc++.h>
 #define mod 1000000007
