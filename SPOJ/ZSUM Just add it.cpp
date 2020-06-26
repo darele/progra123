@@ -1,3 +1,12 @@
+/*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+spoj.com
+Problem: Just add it
+link to the problem 
+https://www.spoj.com/problems/ZSUM/
+link to the video where I solve it:
+https://youtu.be/wwxkcyVUVzc
+*/
 #include <bits/stdc++.h>
 #define ll long long
 #define mod 10000007
