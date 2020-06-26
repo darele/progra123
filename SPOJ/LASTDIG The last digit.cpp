@@ -9,19 +9,19 @@ int main() {
 	int t;
 	cin >> t;
     while (t--) {
-        ll a, b;
-        cin >> a >> b;
-        ll ans = 1;
-        while (b) {
-            if (b & 1) {
-                ans *= a;
-                ans %= 10;
-            }
-            a *= a;
-            a %= 10;
-            b >>= 1ll;
-        }
-        cout << ans << "\n";
+		ll a, b;
+		cin >> a >> b;
+		ll ans = 1;
+		while (b) {
+			if (b & 1) {
+			ans *= a;
+			ans %= 10;
+			}
+			a *= a;
+			a %= 10;
+			b >>= 1ll;
+		}
+		cout << ans << "\n";
     }
 	return 0;
 }
