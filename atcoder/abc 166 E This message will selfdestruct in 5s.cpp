@@ -4,6 +4,8 @@ platform: atcoder.jp
 Problem: This message will selfdestruct in 5s
 contest: atcoder beginner contest 166
 link to the problem (https://atcoder.jp/contests/abc166/tasks/abc166_e)
+link to the video where I solve it
+https://youtu.be/kDimkhUR1Io
 */
 #include <bits/stdc++.h>
 #define ll long long
