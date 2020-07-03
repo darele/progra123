@@ -1,3 +1,9 @@
+/*
+By progra123 (https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ)
+link to the video where I explain this concept: 
+https://youtu.be/wwxkcyVUVzc (spanish)
+https://youtu.be/Mk3YXKJp-H0 (english)
+*/
 #include <bits/stdc++.h>
 #define ll long long
 
