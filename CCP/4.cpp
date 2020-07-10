@@ -3,17 +3,7 @@
 
 using namespace std;
 
-typedef long long ll;
 typedef vector <int> vi;
-typedef vector <ll> vl;
-typedef pair <ll, ll> dl;
-typedef pair <ll, ll> ii;
-typedef vector <ii> vii;
-typedef vector <vii> graph;
-
-bool comp(ll a, ll b) {
-	return a > b;
-}
 
 int main() {
 	ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
@@ -42,7 +32,11 @@ int main() {
     int temp = 1;
     suma = 0;
     for (int i = l - 1; i >= 0; i--) {
-        if (suma + arr[i] + pre[cont - temp] <= h) {suma += arr[i]; ans.push_back(arr[i]); temp++;}
+        if (suma + arr[i] + pre[cont - temp] <= h) {
+        	suma += arr[i];
+        	ans.push_back(arr[i]);
+        	temp++;
+        }
     }
     sort(ans.begin(), ans.end());
     for (int x : ans) {

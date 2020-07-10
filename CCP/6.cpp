@@ -1,16 +1,11 @@
-
 #include <bits/stdc++.h>
 #define inf 1000000000
 
 using namespace std;
 
 typedef long long ll;
-typedef vector <int> vi;
-typedef vector <ll> vl;
-typedef pair <ll, ll> dl;
 typedef pair <ll, ll> ii;
 typedef vector <ii> vii;
-typedef vector <vii> graph;
 
 bool comp(ll a, ll b) {
 	return a > b;
