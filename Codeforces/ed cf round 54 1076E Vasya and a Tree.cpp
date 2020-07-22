@@ -1,3 +1,13 @@
+/*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+Codeforces.com
+Problem: Vasya and Tree
+section: Educational Codeforces round 54 problem E
+link to the problem 
+https://codeforces.com/problemset/problem/1076/E
+link to the video where I solve it:
+https://youtu.be/Zze-O2oxoEo (Video in English)
+*/
 #include <bits/stdc++.h>
 #define ll long long
 #define dl pair <ll, ll>
