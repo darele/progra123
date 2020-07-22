@@ -1,3 +1,14 @@
+/*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+Omegaup.com
+Problem: Óptimos de Pareto
+section: CCP problem 6
+link to the problem 
+https://omegaup.com/arena/problem/pareto/#problems (link to the problem)
+https://omegaup.com/arena/1er-ccp/?#problems/ (link to the contest)
+link to the video where I solve it:
+https://youtu.be/O1MHDcq6bzE
+*/
 #include <bits/stdc++.h>
 #define inf 1000000000
 
