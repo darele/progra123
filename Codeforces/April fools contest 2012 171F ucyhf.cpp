@@ -1,3 +1,7 @@
+/*
+https://codeforces.com/contest/171/problem/F
+*/
+
 #include <bits/stdc++.h>
 #define ll long long
 #define vi vector <int>
