@@ -1,5 +1,12 @@
 /*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+Codeforces.com
+Problem: ucyhf
+section: April fools contest 2012 problem F
+link to the problem 
 https://codeforces.com/contest/171/problem/F
+link to the video where I solve it:
+https://youtu.be/WfWba7TBo_M (Video in English)
 */
 
 #include <bits/stdc++.h>
