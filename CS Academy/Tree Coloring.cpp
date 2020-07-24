@@ -16,7 +16,7 @@ using namespace std;
 
 ll n, k;
 graph grafo;
-vi p, degree;
+vi p;
 
 ll dfs(int u, ll val) {
     ll cans = val;
@@ -38,22 +38,12 @@ int main() {
     cin >> n >> k;
     grafo.assign(n + 5, vi());
     p.assign(n + 5, 0);
-    degree.assign(n + 5, 0);
     int in1, in2;
     for (int i = 1; i < n; i++) {
         cin >> in1 >> in2;
         grafo[in1].push_back(in2);
         grafo[in2].push_back(in1);
-        degree[in1]++;
-        degree[in2]++;
     }
-    int s;
-    for (int i = 0; i < n; i++) {
-        if (degree[i] == 1) {
-            s = i;
-            break;
-        }
-    }
-    cout << dfs(s, k) << "\n";
+    cout << dfs(1, k) << "\n";
 	return 0;
 }
