@@ -7,6 +7,7 @@ link to the problem
 https://codeforces.com/contest/171/problem/F
 link to the video where I solve it:
 https://youtu.be/WfWba7TBo_M (Video in English)
+https://youtu.be/BWHDwCm3l64 (Video in Spanish)
 */
 
 #include <bits/stdc++.h>
