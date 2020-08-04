@@ -1,5 +1,11 @@
 /*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+CSAcademy
+Problem: Tree Coloring
+link to the problem 
 https://csacademy.com/contest/archive/task/tree-coloring/statement/
+link to the video where I solve it:
+https://youtu.be/wu521P50PWw
 */
 
 #include <bits/stdc++.h>
