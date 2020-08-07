@@ -4,7 +4,7 @@ Omegaup.com
 Problem: Bloques Cayendo
 Section: first CCP (Copa Centroamericana de Programacion)
 link to the problem 
-https://omegaup.com/arena/1er-ccp/#problems (link to the contest)
+https://omegaup.com/arena/ccp-2020-public/#problems (link to the contest)
 https://omegaup.com/arena/problem/1er-ccp-bloques/#problems (link to the problem)
 link to the video where I solve it:
 https://youtu.be/I3iJc7wzi9o
