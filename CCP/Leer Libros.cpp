@@ -5,7 +5,7 @@ Problem: Leer libros
 section: CCP problem 4
 link to the problem 
 https://omegaup.com/arena/problem/Leer-Libros/#problems (link to the problem)
-https://omegaup.com/arena/1er-ccp/?#problems/ (link to the contest)
+https://omegaup.com/arena/ccp-2020-public/#problems (link to the contest)
 link to the video where I solve it:
 https://youtu.be/O1MHDcq6bzE
 */
