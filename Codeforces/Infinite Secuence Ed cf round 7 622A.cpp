@@ -1,5 +1,12 @@
 /*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+Codeforces.com
+Problem: Infinite Sequence
+section: Educational cf round 7
+link to the problem 
 https://codeforces.com/contest/622/problem/A
+link to the video where I solve it:
+https://youtu.be/xq47gWYa7X0
 */
 
 /*
