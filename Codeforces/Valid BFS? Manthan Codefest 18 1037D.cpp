@@ -1,5 +1,12 @@
 /*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+Codeforces.com
+Problem: Valid BFS?
+section: Manthan Codefest 18
+link to the problem 
 https://codeforces.com/contest/1037/problem/D
+link to the video where I solve it:
+https://youtu.be/Rux6TJqNbIY
 */
 #include <bits/stdc++.h>
 #define ll long long
@@ -9,7 +16,6 @@ https://codeforces.com/contest/1037/problem/D
 #define vl vector <ll>
 #define vii vector <ii>
 #define graph vector <vector <int> >
-#define tam 10005
  
 using namespace std;
  
