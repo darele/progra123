@@ -1,6 +1,12 @@
 /*
-Link to the problem:
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+Codeforces.com
+Problem: Multihedgehog
+section: cf round 518 problem B
+link to the problem 
 https://codeforces.com/problemset/problem/1067/B
+link to the video where I solve it:
+https://youtu.be/C6IklT4YQcM (Video in English)
 */
 #include <bits/stdc++.h>
 #define ll long long
