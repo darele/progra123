@@ -5,7 +5,8 @@ Problem: Tree Coloring
 link to the problem 
 https://csacademy.com/contest/archive/task/tree-coloring/statement/
 link to the video where I solve it:
-https://youtu.be/wu521P50PWw
+https://youtu.be/wu521P50PWw (Video in English)
+https://youtu.be/yT-ViooMy-Q (Video in Spanish)
 */
 
 #include <bits/stdc++.h>
