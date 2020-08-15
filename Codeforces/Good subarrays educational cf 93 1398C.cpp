@@ -6,7 +6,7 @@ section: Educational Cf round 93 problem C
 link to the problem 
 https://codeforces.com/contest/1398/problem/C
 link to the video where I solve it:
-
+https://youtu.be/MoEuYe6AjDY (video in spanish)
 */
 #include <bits/stdc++.h>
 #define ll long long
