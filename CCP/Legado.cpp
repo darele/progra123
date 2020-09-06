@@ -1,3 +1,14 @@
+/*
+By progra123 ( https://www.youtube.com/channel/UCR-1vHM1j-MbRaE8Nab54gQ )
+Omegaup.com
+Problem: El legado más grande
+Section: first CCP (Copa Centroamericana de Programacion)
+link to the problem 
+https://omegaup.com/arena/ccp-2020-public/#problems (link to the contest)
+https://omegaup.com/arena/problem/1er-ccp-abues/#problems (link to the problem)
+link to the video where I solve it:
+https://youtu.be/-_mU3Sofz6M
+*/
 #include <bits/stdc++.h>
 #define inf 1000000000
 #define tam 100000
